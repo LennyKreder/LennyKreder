@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LennyKreder
 - 👀 I’m interested in Software Development, Music and Reading
-- 🌱 I’m currently updating my developmentskills with Javascript and frameworks like Node.js and React.js and extending datbase skills to MongoDB and PostgreSQL, after many years of OOPing in PHP and MySQL.
+- 🌱 I’m currently updating my developmentskills with Javascript and frameworks like Node.js and React.js and extending database skills to MongoDB and PostgreSQL, after almost 20 years of OOPing in PHP and MySQL. It's about time I get updated to 2024.
 - 💞️ I’m looking to collaborate on fun little projects in web and app development
 
